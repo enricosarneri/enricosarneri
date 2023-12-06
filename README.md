@@ -10,7 +10,7 @@
 <!-- BEGIN LATEST DOWNLOAD BUTTON -->
 [![Download CV][resume-short-shield]](resume/CV_enrico_sarneri_EN.pdf) &nbsp;&nbsp;
 <!-- END LATEST DOWNLOAD BUTTON -->
-<a id="resume-en-short-url" href="resume/CV_enrico_sarneri_EN" download="CV_enrico_sarneri_EN"></a>
+<a id="resume-en-short-url" href="resume/CV_enrico_sarneri_EN.pdf" download="CV_enrico_sarneri_EN.pdf"></a>
 
 <!--##
 

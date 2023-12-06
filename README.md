@@ -8,7 +8,7 @@
 
 
 <!-- BEGIN LATEST DOWNLOAD BUTTON -->
-[![Download CV][resume-short-shield]][resume-en-short-url]
+[![Download CV][resume-short-shield]][resume-en-short-url] &nbsp;&nbsp;
 
 
 <!-- END LATEST DOWNLOAD BUTTON -->

@@ -31,4 +31,4 @@ Here are some ideas to get you started:
 
 <!-- Shields -->
 [resume-short-shield]: https://img.shields.io/badge/Download%20CV%20-blue?style=for-the-badge
-[resume-en-short-url]: [https://github.com/enricosarneri/enricosarneri/blob/main/CV_enrico_sarneri_EN.pdf]
+[resume-en-short-url]: [https://github.com/enricosarneri/enricosarneri/releases//download/Current/CV_enrico_sarneri_EN.pdf]

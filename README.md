@@ -6,8 +6,11 @@
 - 📫 You can contact me at esarneri@gmail.com
 ### Download my CV here!
 
+
 <!-- BEGIN LATEST DOWNLOAD BUTTON -->
-[![Download CV](https://custom-icon-badges.demolab.com/badge/-Download-blue?style=for-the-badge&logo=download&logoColor=white "Download CV")](https://github.com/enricosarneri/enricosarneri/blob/main/CV_enrico_sarneri_EN.pdf)
+[![Download CV][resume-short-shield]][resume-en-short-url]
+
+
 <!-- END LATEST DOWNLOAD BUTTON -->
 <!--##
 
@@ -24,3 +27,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+</details>
+
+<!-- Shields -->
+[resume-short-shield]: https://img.shields.io/badge/Download%20CV%20-blue?style=for-the-badge
+[resume-en-short-url]: [https://github.com/enricosarneri/enricosarneri/blob/main/CV_enrico_sarneri_EN.pdf]

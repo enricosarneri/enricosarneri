@@ -8,10 +8,8 @@
 
 
 <!-- BEGIN LATEST DOWNLOAD BUTTON -->
-[![Download CV][resume-short-shield]](resume/CV_enrico_sarneri_EN.pdf) &nbsp;&nbsp;
+[![Download CV][resume-short-shield]][release-url] &nbsp;&nbsp;
 <!-- END LATEST DOWNLOAD BUTTON -->
-<a id="resume-en-short-url" href="resume/CV_enrico_sarneri_EN.pdf" download="CV_enrico_sarneri_EN.pdf"></a>
-
 <!--##
 
 **enricosarneri/enricosarneri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -31,4 +29,4 @@ Here are some ideas to get you started:
 
 <!-- Shields -->
 [resume-short-shield]: https://img.shields.io/badge/Download%20CV%20-blue?style=for-the-badge
-[resume-en-short-url]: https://github.com/enricosarneri/CV/releases/download/Current/CV_enrico_sarneri_EN.pdf
+[release-url]: https://github.com/enricosarneri/enricosarneri/releases/latest

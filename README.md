@@ -8,10 +8,10 @@
 
 
 <!-- BEGIN LATEST DOWNLOAD BUTTON -->
-[![Download CV][resume-short-shield]][resume-en-short-url] &nbsp;&nbsp;
-
-
+[![Download CV][resume-short-shield]](resume/CV_enrico_sarneri_EN.pdf) &nbsp;&nbsp;
 <!-- END LATEST DOWNLOAD BUTTON -->
+<a id="resume-en-short-url" href="resume/CV_enrico_sarneri_EN" download="CV_enrico_sarneri_EN"></a>
+
 <!--##
 
 **enricosarneri/enricosarneri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

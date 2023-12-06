@@ -7,7 +7,7 @@
 ### Download my CV here!
 
 <!-- BEGIN LATEST DOWNLOAD BUTTON -->
-[![Download zip](https://custom-icon-badges.demolab.com/badge/-Download-blue?style=for-the-badge&logo=download&logoColor=white "Download CV")]([https://github.com/your-username/your-repository/blob/main/path/to/YourFile.pdf](https://github.com/enricosarneri/enricosarneri/blob/main/CV_enrico_sarneri_EN.pdf))
+[![Download CV](https://custom-icon-badges.demolab.com/badge/-Download-blue?style=for-the-badge&logo=download&logoColor=white "Download CV")](https://github.com/enricosarneri/enricosarneri/blob/main/CV_enrico_sarneri_EN.pdf)
 <!-- END LATEST DOWNLOAD BUTTON -->
 <!--##
 

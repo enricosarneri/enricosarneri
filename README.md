@@ -1,11 +1,13 @@
-- ## Hi there 👋 I'm @enricosarneri
-- ## 💻 I'm a graduate MSc student in Computer Science and Engineering from Politecnico di Milano
-- ## 🔭 I'm passionate about Artificial Intelligence, Machine Learning, and Computer Vision and their application to the healthcare system
-- ## ⚡ I'm excited to discover and work with state-of-the-art technologies
-- ## 📌 I believe that given the current revolution in data and the significantcant advances in computational capabilities, it is only through one's creativity that the next phase of this technological era can be shaped.
-- ## 📫 You can contact me at esarneri@gmail.com
+- Hi there 👋 I'm @enricosarneri
+- 💻 I'm a graduate MSc student in Computer Science and Engineering from Politecnico di Milano
+- 🔭 I'm passionate about Artificial Intelligence, Machine Learning, and Computer Vision and their application to the healthcare system
+- ⚡ I'm excited to discover and work with state-of-the-art technologies
+- 📌 I believe that given the current revolution in data and the significantcant advances in computational capabilities, it is only through one's creativity that the next phase of this technological era can be shaped.
+- 📫 You can contact me at esarneri@gmail.com
 ### Download my CV here!
-[Download CV](https://github.com/enricosarneri/enricosarneri/blob/main/CV_enrico_sarneri_EN.pdf)
+<a href="[https://github.com/your-username/your-repository/blob/main/path/to/YourFile.pdf](https://github.com/enricosarneri/enricosarneri/blob/main/CV_enrico_sarneri_EN.pdf)" download>
+  <button style="padding: 10px; background-color: #4CAF50; color: white; border: none; border-radius: 4px; text-align: center; text-decoration: none; display: inline-block; font-size: 14px; margin: 4px 2px; cursor: pointer;">Download PDF</button>
+</a>
 <!--##
 
 **enricosarneri/enricosarneri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

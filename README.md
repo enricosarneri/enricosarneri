@@ -1,6 +1,6 @@
 - 👋 Hi there! 😄 I'm @enricosarneri 
 - 💻 I'm a graduate MSc student in Computer Science and Engineering from Politecnico di Milano
-- 🔭 I'm passionate about Artificial Intelligence, Machine Learning, and Computer Vision and their application to the healthcare system 🫀
+- 🔭 I'm a strong fan of AI, ML, DL and their application to the healthcare system 🫀
 - ⚡ I'm excited to discover and work with state-of-the-art technologies
 - 📌 I believe that given the current revolution in data and the significant advances in computational capabilities, it is only through one's creativity that the next phase of this technological era can be shaped.
 - 📫 You can contact me at esarneri@gmail.com
